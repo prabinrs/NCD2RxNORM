@@ -1,4 +1,4 @@
-# Mapping NDC to ATC Drug Classes using RxNorm 
+# Handling Medication Data (RxNorm and NDC)
 
 **RxNorm** : RxNorm provides normalized names for clinical drugs and links its names to many of the drug vocabularies commonly used in pharmacy management and drug interaction software, including those of First Databank, Micromedex, Multum, and Gold Standard Drug Database.
 
